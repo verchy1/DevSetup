@@ -7,3 +7,12 @@ indent_size = 2
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+
+# Cela signifie :
+
+# UTF-8
+# indentation avec des espaces
+# 2 espaces par niveau
+# fin de ligne Unix (LF)
+# une ligne vide à la fin du fichier
+# suppression des espaces inutiles en fin de ligne
